@@ -2,9 +2,9 @@
 ## 🎨 CSS Exes
 قالب های تک صفحه ای Html Css:
 
-- git@github.com:omidaminb/C-crypto-us.git - سایت ارز دیجیتال
-- git@github.com:omidaminb/shopping-store.git  - سایت فروشگاهی
-- git@github.com:omidaminb/Gallery.git  - سایت گالری
+- https://github.com/omidaminb/C-crypto-us - سایت ارز دیجیتال
+- https://github.com/omidaminb/shopping-store  - سایت فروشگاهی
+- https://github.com/omidaminb/Gallery  - سایت گالری
 
 ---
 
