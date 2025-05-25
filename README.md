@@ -11,17 +11,15 @@
 ## 🌐 JavaScript Exes
 
 تمرین هایی با استفاده از Js پیاده سازی شدن:
-- [todo-app](https://github.com/YOUR_USERNAME/todo-app) – اپلیکیشن لیست کارها
-- [weather-app](https://github.com/YOUR_USERNAME/weather-app) – نمایش آب و هوا با API
-- [react-portfolio](https://github.com/YOUR_USERNAME/react-portfolio) – نمونه‌کار من با React
+- https://github.com/omidaminb/Js-3-Exes - Tree menu / Show products / search
+- https://github.com/omidaminb/Drag-Drop  - Drag Drop
+- https://github.com/omidaminb/ToDoApp - ToDoApp
+- https://github.com/omidaminb/Shopping-Card - Shopping Card
 
 ---
 
 ## ⚛️ React Exes
 تمرین هایی با استفاده از React پیاده سازی شدن:
 
-- [calculator](https://github.com/YOUR_USERNAME/calculator)
-- [typing-game](https://github.com/YOUR_USERNAME/typing-game)
-
-
+- https://github.com/omidaminb/Ract-1-Ex-Users-Products - Users / Products - Router
 
