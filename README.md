@@ -1,10 +1,10 @@
 
 ## 🎨 CSS Exes
-تمرین هایی که فقط با HTML و CSS پیاده‌سازی شدن:
+قالب های تک صفحه ای Html Css:
 
-- [css-buttons](https://github.com/YOUR_USERNAME/css-buttons) – مجموعه دکمه‌های زیبا
-- [css-grid-layout](https://github.com/YOUR_USERNAME/css-grid-layout) – تمرین با Grid
-- [animated-cards](https://github.com/YOUR_USERNAME/animated-cards) – کارت‌های انیمیشنی
+- git@github.com:omidaminb/C-crypto-us.git - سایت ارز دیجیتال
+- git@github.com:omidaminb/shopping-store.git  - سایت فروشگاهی
+- git@github.com:omidaminb/Gallery.git  - سایت گالری
 
 ---
 
