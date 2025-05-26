@@ -21,5 +21,5 @@
 ## ⚛️ React Exes
 تمرین هایی با استفاده از React پیاده سازی شدن:
 
-- https://github.com/omidaminb/Ract-1-Ex-Users-Products - Users / Products - Router
-
+- https://github.com/omidaminb/React-Exe-1-Products-User - Users / Products - Router
+- https://github.com/omidaminb/React-Exe-2-UserList - UserList
